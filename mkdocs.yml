@@ -1,0 +1,11 @@
+site_name: "test-deletemes3-4567"
+site_description: 
+
+nav:
+  - Introduction: index.md
+  - Subpage: sub-page.md
+  - 'Code Sample': code/code-sample.md
+
+
+plugins:
+  - techdocs-core
